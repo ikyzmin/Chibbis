@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chibbis</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="hits">Hits</string>
+    <string name="reviews">Reviews</string>
+    <string name="reviews_percent">%d %%</string>
+    <string name="review_title">%s about %s</string>
+</resources>

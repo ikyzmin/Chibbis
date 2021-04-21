@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="restaurants">Рестораны</string>
+    <string name="hits">Хиты</string>
+    <string name="reviews">Отзывы</string>
+    <string name="reviews_percent">%d %%</string>
+    <string name="review_title">%s о ресторане %s</string>
+</resources>
